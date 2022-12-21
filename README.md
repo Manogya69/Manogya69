@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manogya Manandhar</h1>
-<h3 align="center">Wassssuppp??</h3>
+<h3 align="center" width="800" height="500">Wassssuppp??</h3>
 <img align="center" alt="ryuk" src="https://media.tenor.com/kgS82_FXLjsAAAAC/ryuk-apple.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manogya69&label=Profile%20views&color=0e75b6&style=flat" alt="manogya69" /> </p>
