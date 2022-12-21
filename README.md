@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manogya Manandhar</h1>
 <h3 align="center">Wassssuppp??</h3>
-<img align="center" width="500" src="https://dsqqu7oxq6o1v.cloudfront.net/preview-191372-GIywi2dJkU-high.mp4">
+<img align="center" width="500" src="![image](https://user-images.githubusercontent.com/97167514/208949814-2d2fd33f-37a7-450a-8f5c-768bab1028a9.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manogya69&label=Profile%20views&color=0e75b6&style=flat" alt="manogya69" /> </p>
 
