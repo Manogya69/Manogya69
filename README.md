@@ -2,6 +2,8 @@
 <h3 align="center" width="800" height="500">Wassssuppp??</h3>
 <img align="center" width="1000"alt="ryuk" src="https://media.tenor.com/4J0BMJUnB1MAAAAC/ryuk-death-note.gif"></img>
 
+<!-- ![snake gif](https://github.com/manogya69/manogya69/blob/output/github-contribution-grid-snake.gif) -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manogya69&label=Profile%20views&color=0e75b6&style=flat" alt="manogya69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manogya69" alt="manogya69" /></a> </p>
