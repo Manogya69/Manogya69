@@ -3,7 +3,7 @@
 <img align="center" width="1000"alt="ryuk" src="https://media.tenor.com/4J0BMJUnB1MAAAAC/ryuk-death-note.gif"></img>
 
 <!-- ![snake gif](https://github.com/manogya69/manogya69/blob/output/github-contribution-grid-snake.gif) -->
-[![](https://visitcount.itsvg.in/api?id=manogya69&icon=5&color=3)](https://visitcount.itsvg.in)
+
 #  About Me:
 🔭 I’m currently working on my coding skills<br>👯 I’m looking to collaborate on Front-End Projects<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning React JS<br>💬 Ask me about HTML, CSS & JavaScript<br>
 
@@ -27,7 +27,7 @@
 
 # 📊 GitHub Stats:
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manogya69&theme=matrix&no-frame=true&no-bg=false&margin-w=4)<br/>
+![](https://github-profile-trophy.vercel.app/?username=manogya69&theme=matrix&no-frame=false&no-bg=true&margin-w=4)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manogya69&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=manogya69&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manogya69&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
