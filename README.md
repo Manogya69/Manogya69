@@ -3,7 +3,7 @@
  <!-- <img align="center" width="1000"alt="ryuk" src="https://media.tenor.com/4J0BMJUnB1MAAAAC/ryuk-death-note.gif"></img> -->
  <img align="center" width="1000"alt="ryuk" src="https://camo.githubusercontent.com/d35065bba4dee546ecdd6fe59d78d6c3a4f188b17383e1ca78f0ec1f12b629d2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966"></img>  
 
-<!-- ![snake gif](https://github.com/manogya69/manogya69/blob/output/github-contribution-grid-snake.gif) -->
+(https://github.com/manogya69/manogya69/blob/output/github-contribution-grid-snake.gif)
 
 #  About Me:
 🔭 I’m currently working on my coding skills<br>👯 I’m looking to collaborate on Front-End Projects<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning React JS<br>💬 Ask me about HTML, CSS & JavaScript<br>
